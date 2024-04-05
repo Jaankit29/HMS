@@ -1,7 +1,7 @@
-#Hospital Management System
-##Technology Stack: MERN (MongoDB, Express.js, React.js, Node.js)
+# Hospital Management System
+## Technology Stack: MERN (MongoDB, Express.js, React.js, Node.js)
 
-###Key Features:
+### Key Features:
 1. User authentication (login/register).
 2. Appointment booking system.
 3. Doctor registration.
@@ -9,7 +9,7 @@
 5. Admin panel for system management.
 6. Real-time updates.
 
-Architecture:
+### Architecture:
 1. Frontend: React.js, Redux/Context API, Bootstrap/Material UI.
 1. Backend: Node.js, Express.js, MongoDB.
 ![image](https://github.com/Jaankit29/Hospital-Managenent-System/assets/86586431/1a4cef3a-db25-422f-80f8-1805a25416f2)
